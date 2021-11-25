@@ -30,22 +30,22 @@ body .wrapper {
 
 @font-face {
     font-family: Oswald__Bold;
-    src: url('../Fonts/Oswald/static/Oswald-Bold.ttf');
+    src: url('./Fonts/Oswald/static/Oswald-Bold.ttf');
 }
 
 @font-face {
     font-family: Nobile__Bold;
-    src: url('../Fonts/Nobile/Nobile-Bold.ttf');
+    src: url('./Fonts/Nobile/Nobile-Bold.ttf');
 }
 
 @font-face {
     font-family: Nobile__Medium;
-    src: url('../Fonts/Nobile/Nobile-Medium.ttf');
+    src: url('./Fonts/Nobile/Nobile-Medium.ttf');
 }
 
 @font-face {
     font-family: OpenSans__Bold;
-    src: url('../Fonts/Open_Sans/static/OpenSans/OpenSans-Bold.ttf');
+    src: url('./Fonts/Open_Sans/static/OpenSans/OpenSans-Bold.ttf');
 }
 
 @font-face {
@@ -78,22 +78,22 @@ body .wrapper {
 
 @font-face {
     font-family: Montserrat__ExtraBold;
-    src: url('../Fonts/Montserrat/Montserrat-ExtraBold.ttf');
+    src: url('./Fonts/Montserrat/Montserrat-ExtraBold.ttf');
 }
 
 @font-face {
     font-family: Montserrat__SemiBold;
-    src: url('../Fonts/Montserrat/Montserrat-SemiBold.ttf');
+    src: url('./Fonts/Montserrat/Montserrat-SemiBold.ttf');
 }
 
 @font-face {
     font-family: Roboto__Regular;
-    src: url('../Fonts/Roboto/Roboto-Regular.ttf');
+    src: url('./Fonts/Roboto/Roboto-Regular.ttf');
 }
 
 @font-face {
     font-family: OpenSans__SemiBold;
-    src: url('../Fonts/Open_Sans/static/OpenSans/OpenSans-SemiBold.ttf');
+    src: url('./Fonts/Open_Sans/static/OpenSans/OpenSans-SemiBold.ttf');
 }
 
 .bg_img {
